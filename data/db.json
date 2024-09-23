@@ -1,0 +1,286 @@
+{
+  "productos": [
+    {
+      "nombre": "IPhone 15 Pro Max",
+      "foto": "img/apple-iphone-11-pro-max.jpg",
+      "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+      "precio": 250.5,
+      "stock": "5555",
+      "marca": "Apple",
+      "categoria": "celulares",
+      "id": 1,
+      "envio": false
+    },
+    {
+      "nombre": "IPhone 12",
+      "foto": "img/apple-iphone-12.jpg",
+      "detalles": "Quasi cupiditate quisquam facere molestiae",
+      "precio": 240.3,
+      "stock": "4",
+      "marca": "Apple",
+      "categoria": "celulares",
+      "id": 2,
+      "envio": true
+    },
+    {
+      "nombre": "Auriculares Sony",
+      "foto": "img/auriculares-sony.jpg",
+      "detalles": "Saepe enim ipsa facilis velit quidem voluptatibus totam dicta",
+      "precio": 985,
+      "stock": 4,
+      "marca": "Sleek Cotton Chips",
+      "categoria": "Refined",
+      "id": 3,
+      "envio": false
+    },
+    {
+      "nombre": "Camara Canon",
+      "detalles": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "foto": "img/camara-canon.jpg",
+      "precio": 678,
+      "stock": 7,
+      "marca": "Rustic Soft Tuna",
+      "categoria": "Generic",
+      "id": 4,
+      "envio": true
+    },
+    {
+      "nombre": "Samsung",
+      "detalles": "Facere molestiae odio neque rerum provident voluptas",
+      "foto": "img/celular-samsung.jpg",
+      "precio": 1200,
+      "stock": 4,
+      "marca": "Samsung",
+      "categoria": "celulares",
+      "id": 5,
+      "envio": true
+    },
+    {
+      "id": 6,
+      "nombre": "Chromecast",
+      "precio": 332.22,
+      "stock": 4,
+      "marca": "Google",
+      "categoria": "Electronica",
+      "detalles": "Natus iure quasi cupiditate quisquam facere molestiae odio neque rerum provident voluptas!",
+      "foto": "img/chromecast-google.jpg",
+      "envio": true
+    },
+    {
+      "id": 7,
+      "nombre": "DJI Mavic 2 pro",
+      "precio": 333.22,
+      "stock": 2,
+      "marca": "DJI",
+      "categoria": "Drones",
+      "detalles": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "foto": "img/dji-mavic-2-pro.jpg",
+      "envio": false
+    },
+    {
+      "id": 8,
+      "nombre": "Producto X",
+      "precio": "2333",
+      "stock": "2",
+      "marca": "Sorny",
+      "categoria": "Electro",
+      "detalles": "Piola. 8k",
+      "foto": "img/apple-iphone-11-pro-max.jpg",
+      "envio": true
+    },
+    {
+      "id": 9,
+      "nombre": "",
+      "precio": "",
+      "stock": "",
+      "marca": "",
+      "categoria": "",
+      "detalles": "",
+      "foto": "",
+      "envio": false
+    },
+    {
+      "id": 10,
+      "nombre": "",
+      "precio": "",
+      "stock": "",
+      "marca": "",
+      "categoria": "",
+      "detalles": "",
+      "foto": "",
+      "envio": false
+    },
+    {
+      "id": 11,
+      "nombre": "",
+      "precio": "",
+      "stock": "",
+      "marca": "",
+      "categoria": "",
+      "detalles": "",
+      "foto": "",
+      "envio": false
+    },
+    {
+      "id": 12,
+      "nombre": "",
+      "precio": "",
+      "stock": "",
+      "marca": "",
+      "categoria": "",
+      "detalles": "",
+      "foto": "img/manzanita.jpeg",
+      "envio": false
+    },
+    {
+      "id": 13,
+      "nombre": "",
+      "precio": "",
+      "stock": "",
+      "marca": "",
+      "categoria": "holiwis",
+      "detalles": "",
+      "foto": "img/manzanita.jpg",
+      "envio": false
+    },
+    {
+      "id": 14,
+      "nombre": "",
+      "precio": "",
+      "stock": "",
+      "marca": "",
+      "categoria": "",
+      "detalles": "",
+      "foto": "",
+      "envio": false
+    }
+  ],
+  "carrito": [
+    [
+      {
+        "nombre": "IPhone 15 Pro Max",
+        "foto": "img/apple-iphone-11-pro-max.jpg",
+        "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+        "precio": 250.5,
+        "stock": "4444",
+        "marca": "Apple",
+        "categoria": "celulares",
+        "id": 1,
+        "envio": false,
+        "cantidad": 3
+      },
+      {
+        "nombre": "IPhone 12",
+        "foto": "img/apple-iphone-12.jpg",
+        "detalles": "Quasi cupiditate quisquam facere molestiae",
+        "precio": 240.3,
+        "stock": "4",
+        "marca": "Apple",
+        "categoria": "celulares",
+        "id": 2,
+        "envio": true,
+        "cantidad": 1
+      },
+      {
+        "nombre": "Auriculares Sony",
+        "foto": "img/auriculares-sony.jpg",
+        "detalles": "Saepe enim ipsa facilis velit quidem voluptatibus totam dicta",
+        "precio": 985,
+        "stock": 4,
+        "marca": "Sleek Cotton Chips",
+        "categoria": "Refined",
+        "id": 3,
+        "envio": false,
+        "cantidad": 3
+      },
+      {
+        "nombre": "Camara Canon",
+        "detalles": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "foto": "img/camara-canon.jpg",
+        "precio": 678,
+        "stock": 7,
+        "marca": "Rustic Soft Tuna",
+        "categoria": "Generic",
+        "id": 4,
+        "envio": true,
+        "cantidad": 1
+      },
+      {
+        "nombre": "Samsung",
+        "detalles": "Facere molestiae odio neque rerum provident voluptas",
+        "foto": "img/celular-samsung.jpg",
+        "precio": 1200,
+        "stock": 4,
+        "marca": "Samsung",
+        "categoria": "celulares",
+        "id": 5,
+        "envio": true,
+        "cantidad": 1
+      }
+    ],
+    [
+      {
+        "id": 6,
+        "nombre": "Chromecast",
+        "precio": 332.22,
+        "stock": 4,
+        "marca": "Google",
+        "categoria": "Electronica",
+        "detalles": "Natus iure quasi cupiditate quisquam facere molestiae odio neque rerum provident voluptas!",
+        "foto": "img/chromecast-google.jpg",
+        "envio": true,
+        "cantidad": 1
+      },
+      {
+        "id": 7,
+        "nombre": "DJI Mavic 2 pro",
+        "precio": 333.22,
+        "stock": 2,
+        "marca": "DJI",
+        "categoria": "Drones",
+        "detalles": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "foto": "img/dji-mavic-2-pro.jpg",
+        "envio": false,
+        "cantidad": 3
+      }
+    ],
+    [
+      {
+        "nombre": "IPhone 15 Pro Max",
+        "foto": "img/apple-iphone-11-pro-max.jpg",
+        "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+        "precio": 250.5,
+        "stock": "4444",
+        "marca": "Apple",
+        "categoria": "celulares",
+        "id": 1,
+        "envio": false,
+        "cantidad": 1
+      },
+      {
+        "nombre": "IPhone 12",
+        "foto": "img/apple-iphone-12.jpg",
+        "detalles": "Quasi cupiditate quisquam facere molestiae",
+        "precio": 240.3,
+        "stock": "4",
+        "marca": "Apple",
+        "categoria": "celulares",
+        "id": 2,
+        "envio": true,
+        "cantidad": 1
+      },
+      {
+        "nombre": "Auriculares Sony",
+        "foto": "img/auriculares-sony.jpg",
+        "detalles": "Saepe enim ipsa facilis velit quidem voluptatibus totam dicta",
+        "precio": 985,
+        "stock": 4,
+        "marca": "Sleek Cotton Chips",
+        "categoria": "Refined",
+        "id": 3,
+        "envio": false,
+        "cantidad": 1
+      }
+    ]
+  ]
+}
